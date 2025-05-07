@@ -1,4 +1,4 @@
-# Forecasting Point-of-Sale Trends in Pharmaceuticals Using ARIMA
+# Comparative Forecasting of Pharmaceutical Point-of-Sale Trends for Inventory Optimization Using ARIMA and Prophet
 
 [![View on GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://sashanabilaf.github.io/POS-pharma/)
 
