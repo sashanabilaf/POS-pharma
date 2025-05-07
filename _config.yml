@@ -1,3 +1,3 @@
-title: Forecasting Point-of-Sale Trends in Pharmaceuticals Using ARIMA
+title: Comparative Forecasting of Pharmaceutical Point-of-Sale Trends for Inventory Optimization Using ARIMA and Prophet
 theme: jekyll-theme-minimal
-description: This analysis of pharmaceutical product sales data successfully identified temporal patterns and seasonal trends
+description: Forecasting pharmaceutical sales using ARIMA and Prophet to optimize inventory and supply chain decisions based on time series patterns and model performance.
